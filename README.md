@@ -1,2 +1,2 @@
 # Etch-a-Sketch
-Link: https://jukix.github.io/EtchASketch/
+Link: https://JakubOl.github.io/EtchASketch/
